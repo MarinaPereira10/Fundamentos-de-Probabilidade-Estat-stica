@@ -453,9 +453,10 @@ A pesquisa avaliou a preferência de uso de ferramentas de IA em um grupo de **2
 Confira cada passo na sua folha de rascunho e compare com a lógica descrita. Se quiser resolver alguma questão específica das listas de exercícios (como a EP8, EP9 ou EP10) para praticar mais antes da entrega, é só me avisar!
 
 
-## 💾EXEMPLOS DE ARQUIVOS GERADOS PELO NOTEBOOKLM BASEADO NO CONTEÚDO
+## 💾ARQUIVOS GERADOS PELO NOTEBOOKLM BASEADO NO CONTEÚDO
 
 [Teorema da probabilidade total e Teorema de Bayes.pdf](https://github.com/user-attachments/files/33304936/Teorema.da.probabilidade.total.e.Teorema.de.Bayes.pdf)
+
 [O_Caminho_das_Probabilidades.pdf](https://github.com/user-attachments/files/33304934/O_Caminho_das_Probabilidades.pdf)
 
 
